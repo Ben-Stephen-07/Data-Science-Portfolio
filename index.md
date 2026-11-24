@@ -3,11 +3,12 @@ I have been playing baseball for most of my life and it's my favorite sport to p
 
 ## Skills I Have
 
-Data collection
-Experience with Microsoft software
-Calculus knowledge
-Statistics knowledge
-Programming
+Communication 
+Teamwork 
+Data collection  
+Punctual  
+Adaptable 
+Google Workspace, Excel, Word, PowerPoint 
 
 ## Career Goals
 One career goal I have is to get an internship during college. I want to get on because it would give me valuable experience to help with future jobs. It would also give me an opportunity to really test myself and all of the things I have been working on during school. Getting it between my junior and senior year of college would be perfect but just getting one is enough for me. I have looked at internships at baseball teams that look great if I want to really follow that career that I have set my eyes on early. Besides that, I want to wait till I have taken more data science classes to make more goals because I'm still learning about this field and the careers that are in it. I might make more at the beginning of my sophomore year of college when I have gained that knowledge of what I want to really follow. So, to achieve this goal I will start to look every now and then at what internships are available and look at their requirements to see want I need to strive for in this field doing that can help me stay one track to get one in the time frame i set maybe even before it. 
