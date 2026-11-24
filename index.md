@@ -3,11 +3,11 @@ I have been playing baseball for most of my life and it's my favorite sport to p
 
 ## Skills I Have
 
-Communication 
-Teamwork 
-Data collection  
-Punctual  
-Adaptable 
+Communication,
+Teamwork, 
+Data collection,
+Punctual,
+Adaptable,
 Google Workspace, Excel, Word, PowerPoint 
 
 ## Career Goals
